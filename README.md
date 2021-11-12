@@ -28,6 +28,7 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
 - Du ergründest das Potential des Variable Fonts wird in seinem vollen Umfang.
 - Du lotest auch auch Varianten in der Interaktion und Animation aus: hover, Animation, Transition
 - Du sammelst alle Experimente in separaten HTML-Dokumenten
+- Das Schriftbild unterscheidet sich von einer Entwurfsvariante zur nächsten (nicht zweimal das Gleiche mit anderen Farbeffekten).
 
 ## Abgabe
 
