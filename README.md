@@ -1,10 +1,11 @@
-# Projekt Nr. 3: Variable Variationen (Varianten von)
+# CAS Digital Typography, 3. Projekt: Variable Variationen
 
-## Ziel
+## Ziel
 
 Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sondern eine **grosse Menge** von Entwurfsvarianten.
 
-## Regeln
+## Regeln
+
 - Du verwendest ausschliesslich Variable Fonts.
 - Der Browser ist dein Werkzeug.
   - für Entwurf (hier gibt es Spielraum)
@@ -21,7 +22,7 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
  - assoziativ passend Inhalt hinzuzufügen
  - neu zu denken/interpretieren
 
-## Anforderungen
+## Anforderungen
 
 - Du ergründest das Potential des VFonts wird in seinem vollen Umfang.
 - Du lotest auch auch Varianten in der Interaktion und Animation aus: hover, Animation, Transition
