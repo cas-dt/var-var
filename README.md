@@ -8,15 +8,15 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
 
 - Du verwendest ausschliesslich Variable Fonts.
 - Der Browser ist dein Werkzeug.
-  - für Entwurf (hier gibt es Spielraum)
-  - für Dokumentation
-  - für Präsentation
+  - zum  Entwerfen (hier gibt es Spielraum)
+  - für die Dokumentation
+  - für die Präsentation
 - Jeder Entwurfsschritt wird auf einer separaten Website festgehalten (Code, Screenshot, Foto, Film, GIF)
   - Der Entwurf füllt das Browser-Fenster in sinnvoller Weise aus, z.B. `width: 80vw`
 - Es ist erlaubt ...
   - zu dekonstruieren
   - zu multiplizieren
-  - Collage
+  - Collage
   - Fotografie
   - Kleben
   - Schneiden
