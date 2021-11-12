@@ -2,7 +2,7 @@
 
 ## Ziel
 
-Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sondern eine **grosse Menge** von Entwurfsvarianten.
+Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sondern eine **grosse Menge** von Entwurfsvarianten (mindestens 100).
 
 ## Regeln
 
@@ -28,14 +28,15 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
 - Du lotest auch auch Varianten in der Interaktion und Animation aus: hover, Animation, Transition
 - Du sammelst alle Experimente in separaten HTML-Dokumenten
 
-## Abgabe als Website
+## Abgabe
 
-- Übersichtseite mit Links auf Subpages gemäss [Vorlage]()
-  - Beschriftung des Ordners: vorname-nachname
-- jeder Entwurf ist eine Subpage
-  - Die Mindestzahl von Subpages ist 100
-  - Der Ordner ist wie folgt beschriftet: vorname-nachname-001 (dreistellige Zahl am Ende)
-  - Mindestens die Hälfte der Subpages enthält animierten und/oder interaktiven Inhalt
+- Als Website:
+  - Übersichtseite mit Links auf Subpages gemäss [Vorlage]()
+    - Beschriftung des Ordners: vorname-nachname
+  - jeder Entwurf ist eine Subpage
+    - Die Mindestzahl von Subpages ist 100
+    - Der Ordner ist wie folgt beschriftet: vorname-nachname-001 (dreistellige Zahl am Ende)
+    - Mindestens die Hälfte der Subpages enthält animierten und/oder interaktiven Inhalt
 
 ## Links
 
