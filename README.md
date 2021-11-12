@@ -10,17 +10,17 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
 - Der Browser ist dein Werkzeug.
   - für Entwurf (hier gibt es Spielraum)
   - für Dokumentation
-  - für Präsentation
+  - für PräsentatioN
 - Jeder Entwurfsschritt wird auf einer separaten Website festgehalten (Code, Screenshot, Foto, Film, GIF)
 - Es ist erlaubt …
- - zu dekonstruieren
- - zu multiplizieren
- - Collage
- - Fotografie
- - Kleben
- - Schneiden
- - assoziativ passend Inhalt hinzuzufügen
- - neu zu denken/interpretieren
+  - zu dekonstruieren
+  - zu multiplizieren
+  - Collage
+  - Fotografie
+  - Kleben
+  - Schneiden
+  - assoziativ passend Inhalt hinzuzufügen
+  - neu zu denken/interpretieren
 
 ## Anforderungen
 
