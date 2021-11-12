@@ -10,7 +10,7 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
 - Der Browser ist dein Werkzeug.
   - für Entwurf (hier gibt es Spielraum)
   - für Dokumentation
-  - für PräsentatioN
+  - für Präsentation
 - Jeder Entwurfsschritt wird auf einer separaten Website festgehalten (Code, Screenshot, Foto, Film, GIF)
 - Es ist erlaubt …
   - zu dekonstruieren
@@ -24,14 +24,14 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
 
 ## Anforderungen
 
-- Du ergründest das Potential des VFonts wird in seinem vollen Umfang.
+- Du ergründest das Potential des Variable Fonts wird in seinem vollen Umfang.
 - Du lotest auch auch Varianten in der Interaktion und Animation aus: hover, Animation, Transition
 - Du sammelst alle Experimente in separaten HTML-Dokumenten
 
 ## Abgabe
 
 - Als Website:
-  - Übersichtseite mit Links auf Subpages gemäss [Vorlage]()
+  - Übersichtsseite mit Links auf Subpages gemäss [Vorlage](https://github.com/cas-dt/var-var) (Download mit dem grünen Knopf oben rechts)
     - Beschriftung des Ordners: vorname-nachname
   - jeder Entwurf ist eine Subpage
     - Die Mindestzahl von Subpages ist 100
