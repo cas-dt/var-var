@@ -25,8 +25,8 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
 
 ## Anforderungen
 
-- Du ergründest das Potential des Variable Fonts wird in seinem vollen Umfang.
-- Du lotest auch auch Varianten in der Interaktion und Animation aus: hover, Animation, Transition
+- Du ergründest das Potential des Variable Fonts in seinem vollen Umfang.
+- Du lotest auch Varianten in der Interaktion und Animation aus: hover, Animation, Transition
 - Du sammelst alle Experimente in separaten HTML-Dokumenten
 - Das Schriftbild unterscheidet sich von einer Entwurfsvariante zur nächsten (nicht zweimal das Gleiche mit anderen Farbeffekten).
 
@@ -59,3 +59,11 @@ Es findet keine eigentliche Präsentation statt, sondern wir machen eine Art Ges
 
  - [Introduction to variable fonts on the web](https://web.dev/variable-fonts/) (bitte lesen)
  - [MDN, Variable fonts guide](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide) (zum Nachschlagen)
+
+
+ ## Code Beispiele
+
+ - [CSS Animation mit Google-vFont](https://codepen.io/oolong32/pen/PobPmEL), eingebettet in HTML (Pen Settings, HTML, ‘Stuff for `<head>`’)
+ - [CSS Animation mit Google-vFont](https://codepen.io/oolong32/pen/zYdJzxN), eingebettet in CSS
+ - [CSS Transition mit Google-vFont](https://codepen.io/oolong32/pen/zYovoBo)
+ - [Animation eines Google-vFonts, ausgelöst mit JS](https://codepen.io/oolong32/pen/dyOYWdK)
