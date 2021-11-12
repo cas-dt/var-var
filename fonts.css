@@ -1,0 +1,45 @@
+/*
+ * =======================
+ * Variable Font einbinden
+ * =======================
+ *
+ * Lesen:
+ * https://web.dev/variable-fonts/
+ * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide
+ *
+ */
+
+
+/* 
+ * =================
+ * Entweder ab Datei
+ * =================
+ */
+
+/*
+ * - Vergleiche mit ‘Introduction to variable fonts on the web’
+ * - Den Namen der font-family kannst du frei wählen.
+ * - Foo-Bar-VF.woff2 mit dem Dateinamen deines Fonts ersetzen.
+ * - Die Werte zu font-weight und font-stretch stellst du gemäss Font-Eigenschaften ein.
+ */
+
+/* 
+ @font-face {
+	font-family: 'My Variable Font';
+	src: url('Foo-Bar-VF.woff2') format('woff2 supports variations'),
+       url('Foo-Bar.woff2') format('woff2-variations');
+	font-weight: 100 1000;
+	font-stretch: 25% 151%;
+}
+*/
+
+/*
+ * =====================================
+ * Oder ab CDN (Google, Adobe, Monotype)
+ * =====================================
+ */
+
+
+/*
+ @import url('https://fonts.googleapis.com/css2?family=Recursive:slnt,wght,CASL,CRSV,MONO@-15..0,300..1000,0..1,0..1,0..1&display=swap');
+*/
