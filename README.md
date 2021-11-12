@@ -14,7 +14,7 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
 - Jeder Entwurfsschritt wird auf einer separaten Website festgehalten (Code, Screenshot, Foto, Film, GIF)
   - Der Entwurf füllt das Browser-Fenster in sinnvoller Weise aus, z.B. `width: 80vw`
 - Es ist erlaubt ...
-  - zu dekonstruieren
+- zu dekonstruieren
   - zu multiplizieren
   - Collage
   - Fotografie
