@@ -60,14 +60,14 @@ Es findet keine eigentliche Präsentation statt, sondern wir machen eine Art Ges
  - [Introduction to variable fonts on the web](https://web.dev/variable-fonts/) (bitte lesen)
  - [MDN, Variable fonts guide](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide) (zum Nachschlagen)
 
- ## Code Beispiele
+## Code Beispiele
 
  - [CSS Animation mit Google-vFont](https://codepen.io/oolong32/pen/PobPmEL), eingebettet in HTML (Pen Settings, HTML, ‘Stuff for `<head>`’)
  - [CSS Animation mit Google-vFont](https://codepen.io/oolong32/pen/zYdJzxN), eingebettet in CSS
  - [CSS Transition mit Google-vFont](https://codepen.io/oolong32/pen/zYovoBo)
  - [Animation eines Google-vFonts, ausgelöst mit JS](https://codepen.io/oolong32/pen/dyOYWdK)
 
-## Videos
+## Videos
 
 - [Ein Variable Font fürs Web](https://youtu.be/CI8QvH_SDBs) Link: [Wakamaifondue](https://wakamaifondue.com/)
 - [Fremd gehostete Fonts](https://youtu.be/bFMyAmIUzWo) Begriff: «CDN» = Content Delivery Network
