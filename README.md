@@ -58,6 +58,7 @@ Es findet keine eigentliche Präsentation statt, sondern wir machen eine Art Ges
 
 ## Links
 
+- [Variable Fonts, A simple resource for finding and trying variable fonts](https://v-fonts.com/)
  - [Introduction to variable fonts on the web](https://web.dev/variable-fonts/) (bitte lesen)
  - [MDN, Variable fonts guide](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide) (zum Nachschlagen)
 
