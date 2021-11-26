@@ -21,6 +21,7 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
   - Kleben
   - Schneiden
   - assoziativ passend Inhalt hinzuzufügen
+  - assoziativ passend Inhalt zu ergänzen
   - neu zu denken/interpretieren
 
 ## Anforderungen
@@ -69,9 +70,9 @@ Es findet keine eigentliche Präsentation statt, sondern wir machen eine Art Ges
 
 ## Videos
 
-- [Ein Variable Font fürs Web](https://youtu.be/CI8QvH_SDBs) Link: [Wakamaifondue](https://wakamaifondue.com/)
-- [Fremd gehostete Fonts](https://youtu.be/bFMyAmIUzWo) Begriff: «CDN» = Content Delivery Network
+- [Ein Variable Font fürs Web](https://youtu.be/CI8QvH_SDBs) (Link: [Wakamaifondue](https://wakamaifondue.com/))
+- [Fremd gehostete Fonts](https://youtu.be/bFMyAmIUzWo) (Begriff: *CDN* = Content Delivery Network)
 - [Einen Variable Font von Google Fonts einsetzen](https://youtu.be/77T4RtF3O2A)
-- [Variable Font Eigenschaften mit CSS steuern](https://youtu.be/xzBWTV2pJl8) [CodePen-Beispiel](https://codepen.io/oolong32/pen/zYovoBo)
-- [Variable Font Eigenschaften mit CSS animieren](https://youtu.be/xzBWTV2pJl8) [CodePen-Beispiel](https://codepen.io/oolong32/pen/PobPmEL)
-- [Variable Font Eigenschaften mit JavaScript steueren](https://youtu.be/SKIJzeRfs_s) [CodePen-Beispiel](https://codepen.io/oolong32/pen/dyOYWdK)
+- [Variable Font Eigenschaften mit CSS steuern](https://youtu.be/xzBWTV2pJl8), [CodePen-Beispiel](https://codepen.io/oolong32/pen/zYovoBo)
+- [Variable Font Eigenschaften mit CSS animieren](https://youtu.be/xzBWTV2pJl8), [CodePen-Beispiel](https://codepen.io/oolong32/pen/PobPmEL)
+- [Variable Font Eigenschaften mit JavaScript steueren](https://youtu.be/SKIJzeRfs_s), [CodePen-Beispiel](https://codepen.io/oolong32/pen/dyOYWdK)
