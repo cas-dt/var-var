@@ -43,10 +43,15 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
 
 ## Ablauf
 
+### Vorbereitung
+
+- Videos schauen (siehe unten)
+- Text lesen: [Introduction to variable fonts on the web](https://web.dev/variable-fonts/)
+- Auf unserem [Miro Board](https://miro.com/app/board/o9J_ljsXVN4=/) Bildmaterial hunzufügen.
+
 ### Erster Tag: 03/04.12.
 
 - Einführung in Variable Fonts
-- Videos werden im Vorfeld abgegeben (Link folgt)
 - Beginn Entwurfsphase
 
 ### Zweiter Tag: 21/22.01.
