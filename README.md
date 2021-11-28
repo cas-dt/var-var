@@ -34,7 +34,7 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
 ## Abgabe
 
 - Als Website:
-  - Übersichtsseite mit Links auf Subpages gemäss [Vorlage](https://github.com/cas-dt/var-var) (Download mit dem grünen Knopf oben rechts)
+  - Übersichtsseite mit Links auf Subpages gemäss [Vorlage](https://github.com/cas-dt/var-var/vorname-nachname) (Download mit dem grünen Knopf oben rechts)
     - Beschriftung des Ordners: `vorname-nachname`
   - jeder Entwurf ist eine Subpage
     - Die Mindestzahl von Subpages ist 100
