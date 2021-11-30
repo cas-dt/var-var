@@ -78,6 +78,8 @@ Es findet keine eigentliche Präsentation statt, sondern wir machen eine Art Ges
 - [Variable Fonts, A simple resource for finding and trying variable fonts](https://v-fonts.com/)
  - [Introduction to variable fonts on the web](https://web.dev/variable-fonts/) (bitte lesen)
  - [MDN, Variable fonts guide](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide) (zum Nachschlagen)
+ - [Wakamaifondue](https://wakamaifondue.com/beta/): What can my font do? – Analyse-Tool für Variable Fonts von [Roel Nieskens](https://pixelambacht.nl/)
+ - [Liste aller Variable Fonts bei Google, inklusive embed Links](https://pixelambacht.nl/google-variable-fonts-links/), ebenfalls von [Roel Nieskens](https://pixelambacht.nl/)
 
 ## Code Beispiele
 
@@ -88,7 +90,7 @@ Es findet keine eigentliche Präsentation statt, sondern wir machen eine Art Ges
 
 ## Videos
 
-- [Ein Variable Font fürs Web](https://youtu.be/CI8QvH_SDBs) (Link: [Wakamaifondue](https://wakamaifondue.com/))
+- [Ein Variable Font fürs Web](https://youtu.be/CI8QvH_SDBs)
 - [Fremd gehostete Fonts](https://youtu.be/bFMyAmIUzWo) (Begriff: *CDN* = Content Delivery Network)
 - [Einen Variable Font von Google Fonts einsetzen](https://youtu.be/77T4RtF3O2A)
 - [Variable Font Eigenschaften mit CSS steuern](https://youtu.be/xzBWTV2pJl8), [CodePen-Beispiel](https://codepen.io/oolong32/pen/zYovoBo)
