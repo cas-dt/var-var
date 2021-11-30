@@ -34,11 +34,24 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
 ## Abgabe
 
 - Als Website:
-  - Übersichtsseite mit Links auf Subpages gemäss Vorlage (Der Ordner `vorname-nachname`, Download ab [GitHub](https://github.com/cas-dt/var-var) mit dem grünen Knopf oben rechts)
+  - Übersichtsseite mit Links auf Subpages gemäss Vorlage (siehe nächster Abschnitt)
   - jeder Entwurf ist eine Subpage
     - Die Mindestzahl von Subpages ist 100
     - Der Ordner ist wie folgt beschriftet: `vorname-nachname-001` (dreistellige Zahl am Ende)
     - Mindestens die Hälfte der Subpages enthält animierten und/oder interaktiven Inhalt
+
+## Vorlage Herunterladen
+
+Du kannst den ganzen Projektbeschrieb von GitHub](https://github.com/cas-dt/var-var) herunterladen. Dazu klickst du den grünen Knopf ‘Code’ an, und dann auf ‘Download ZIP’ (siehe Bild).
+
+![](github-download.png)
+
+- entpacke das ZIP
+- du brauchst nur den Ordner `vorname-nachname`
+- benennen ihn um (mit deinem eigenen Namen)
+- öffne ihn in Visual Studio Code (Neues Fenster, Ordner öffnen)
+- Klicke unten rechts auf ‘Go Live’
+- etc.
 
 ## Ablauf
 
