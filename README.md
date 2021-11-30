@@ -40,7 +40,7 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
     - Der Ordner ist wie folgt beschriftet: `vorname-nachname-001` (dreistellige Zahl am Ende)
     - Mindestens die Hälfte der Subpages enthält animierten und/oder interaktiven Inhalt
 
-## Vorlage Herunterladen
+## Vorlage Herunterladen
 
 Du kannst den ganzen Projektbeschrieb von GitHub](https://github.com/cas-dt/var-var) herunterladen. Dazu klickst du den grünen Knopf ‘Code’ an, und dann auf ‘Download ZIP’ (siehe Bild).
 
