@@ -42,7 +42,7 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
 
 ## Vorlage Herunterladen
 
-Du kannst den ganzen Projektbeschrieb von GitHub](https://github.com/cas-dt/var-var) herunterladen. Dazu klickst du den grünen Knopf ‘Code’ an, und dann auf ‘Download ZIP’ (siehe Bild).
+Du kannst [den ganzen Projektbeschrieb bei GitHub](https://github.com/cas-dt/var-var) herunterladen. Dazu klickst du den grünen Knopf ‘Code’ an, und dann auf ‘Download ZIP’ (siehe Bild).
 
 ![](github-download.png)
 
