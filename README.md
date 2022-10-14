@@ -61,15 +61,15 @@ Du kannst [den ganzen Projektbeschrieb bei GitHub](https://github.com/cas-dt/var
 - Text lesen: [Introduction to variable fonts on the web](https://web.dev/variable-fonts/)
 - Auf unserem [Miro Board](https://miro.com/app/board/o9J_ljsXVN4=/) Bildmaterial hunzufügen.
 
-### Erster Tag: 03/04.12.
+### Erster Tag: 28./29.10.
 
 - Einführung in Variable Fonts
 - Beginn Entwurfsphase
 
-### Zweiter Tag: 21/22.01.
+### Zweiter Tag: 19./19.11.
 
 - Arbeit an Entwürfen
-- Präsentation
+- Zwischenpräsentation
 
 Es findet keine eigentliche Präsentation statt, sondern wir machen eine Art Gesamtschau: Jede\*r wählt eine bestimmte Zahl von Entwüfen, die wir am Ende des Tages zusammen anschauen.
 
