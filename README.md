@@ -2,24 +2,22 @@
 
 ## Ziel
 
-Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sondern eine **grosse Menge** von Entwurfsvarianten (mindestens 100).
+Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sondern eine **grosse Menge** von Entwurfsvarianten (mindestens 55).
 
 ## Regeln
 
 - Du verwendest ausschliesslich Variable Fonts.
 - Der Browser ist dein Werkzeug.
-  - zum  Entwerfen (hier gibt es Spielraum)
+  - zum  Entwerfen
   - für die Dokumentation
   - für die Präsentation
-- Jeder Entwurfsschritt wird auf einer separaten Website festgehalten (Code, Screenshot, Foto, Film, GIF)
+- Jeder Entwurfsschritt wird auf einer separaten Website festgehalten
   - Der Entwurf füllt das Browser-Fenster in sinnvoller Weise aus, z.B. `width: 80vw`
 - Es ist erlaubt ...
   - zu dekonstruieren
   - zu multiplizieren
-  - Collage
-  - Fotografie
-  - Kleben
-  - Schneiden
+  - zu überlagern
+  - anzuschneiden
   - assoziativ passend Inhalt hinzuzufügen
   - assoziativ passend Inhalt zu ergänzen
   - neu zu denken/interpretieren
@@ -31,12 +29,12 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
 - Du sammelst alle Experimente in separaten HTML-Dokumenten
 - Das Schriftbild unterscheidet sich von einer Entwurfsvariante zur nächsten (nicht zweimal das Gleiche mit anderen Farbeffekten).
 
-## Abgabe
+## Abgabe (25. November)
 
 - Als Website:
   - Übersichtsseite mit Links auf Subpages gemäss Vorlage (siehe nächster Abschnitt)
   - jeder Entwurf ist eine Subpage
-    - Die Mindestzahl von Subpages ist 100
+    - Die Mindestzahl von Subpages ist 55
     - Der Ordner ist wie folgt beschriftet: `vorname-nachname-001` (dreistellige Zahl am Ende)
     - Mindestens die Hälfte der Subpages enthält animierten und/oder interaktiven Inhalt
 
@@ -65,13 +63,15 @@ Du kannst [den ganzen Projektbeschrieb bei GitHub](https://github.com/cas-dt/var
 
 - Einführung in Variable Fonts
 - Beginn Entwurfsphase
+- Besrpechung erste Entwürfe
 
 ### Zweiter Tag: 19./19.11.
 
+- Du bringst deine ersten 30 Variationen mit.
 - Arbeit an Entwürfen
-- Zwischenpräsentation
+- Besprechung/Präsentation
 
-Es findet keine eigentliche Präsentation statt, sondern wir machen eine Art Gesamtschau: Jede\*r wählt eine bestimmte Zahl von Entwüfen, die wir am Ende des Tages zusammen anschauen.
+Es findet keine eigentliche Präsentation statt, sondern wir machen eine Art Gesamtschau: Die bisher entstandenen Entwürfe werden in 3er-Gruppen besprochen. Danach präsentiert jede Gruppe eine Auswahl davon.
 
 ## Links
 
