@@ -18,7 +18,6 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
   - zu multiplizieren
   - zu überlagern
   - anzuschneiden
-  - assoziativ passend Inhalt hinzuzufügen
   - assoziativ passend Inhalt zu ergänzen
   - neu zu denken/interpretieren
 
@@ -28,15 +27,15 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
 - Du lotest auch Varianten in der Interaktion und Animation aus: hover, Animation, Transition
 - Du sammelst alle Experimente in separaten HTML-Dokumenten
 - Das Schriftbild unterscheidet sich von einer Entwurfsvariante zur nächsten (nicht zweimal das Gleiche mit anderen Farbeffekten).
+ - Mindestens die Hälfte der Subpages enthält animierten und/oder interaktiven Inhalt
 
-## Abgabe (25. November)
+## Abgabe (27. November)
 
 - Als Website:
   - Übersichtsseite mit Links auf Subpages gemäss Vorlage (siehe nächster Abschnitt)
   - jeder Entwurf ist eine Subpage
     - Die Mindestzahl von Subpages ist 55
     - Der Ordner ist wie folgt beschriftet: `vorname-nachname-001` (dreistellige Zahl am Ende)
-    - Mindestens die Hälfte der Subpages enthält animierten und/oder interaktiven Inhalt
 
 ## Vorlage Herunterladen
 
@@ -63,9 +62,9 @@ Du kannst [den ganzen Projektbeschrieb bei GitHub](https://github.com/cas-dt/var
 
 - Einführung in Variable Fonts
 - Beginn Entwurfsphase
-- Besrpechung erste Entwürfe
+- Besprechung erste Entwürfe
 
-### Zweiter Tag: 19./19.11.
+### Zweiter Tag: 18./19.11.
 
 - Du bringst deine ersten 30 Variationen mit.
 - Arbeit an Entwürfen
