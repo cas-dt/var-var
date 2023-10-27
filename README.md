@@ -94,4 +94,5 @@ Es findet keine eigentliche Präsentation statt, sondern wir machen eine Art Ges
 - [Einen Variable Font von Google Fonts einsetzen](https://youtu.be/77T4RtF3O2A)
 - [Variable Font Eigenschaften mit CSS steuern](https://youtu.be/xzBWTV2pJl8), [CodePen-Beispiel](https://codepen.io/oolong32/pen/zYovoBo)
 - [Variable Font Eigenschaften mit CSS animieren](https://youtu.be/y4oW1T7R1es), [CodePen-Beispiel](https://codepen.io/oolong32/pen/PobPmEL)
+- [CSS Animationen (ohne Variable Fonts)](https://www.youtube.com/watch?v=ahDRdPYjpFs)
 - [Variable Font Eigenschaften mit JavaScript steuern](https://youtu.be/SKIJzeRfs_s), [CodePen-Beispiel](https://codepen.io/oolong32/pen/dyOYWdK)
