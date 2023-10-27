@@ -24,16 +24,18 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
 ## Anforderungen
 
 - Du ergründest das Potential des Variable Fonts in seinem vollen Umfang.
-- Du lotest auch Varianten in der Interaktion und Animation aus: hover, Animation, Transition
 - Du sammelst alle Experimente in separaten HTML-Dokumenten
-- Das Schriftbild unterscheidet sich von einer Entwurfsvariante zur nächsten (nicht zweimal das Gleiche mit anderen Farbeffekten).
- - Mindestens die Hälfte der Subpages enthält animierten und/oder interaktiven Inhalt
+- Das Schriftbild unterscheidet sich von einer Entwurfsvariante zur Nächsten (nicht zweimal das Gleiche mit anderen Farbeffekten).
+ - Mindestens die Hälfte der Subpages enthält animierten und/oder interaktiven Inhalt.
+ - Als Variante gilt nur eine Seite mit dem gewählten Schriftbild. Also keine Beispiele mit «Hello World» und Ähnlichem.
+
+
 
 ## Abgabe: Sonntag 26. November
 
 - Als Website:
   - Übersichtsseite mit Links auf Subpages gemäss Vorlage (siehe nächster Abschnitt)
-  - jeder Entwurf ist eine Subpage
+  - jede Variante ist eine Subpage
     - Die Mindestzahl von Subpages ist 55
     - Der Ordner ist wie folgt beschriftet: `vorname-nachname-001` (dreistellige Zahl am Ende)
 
