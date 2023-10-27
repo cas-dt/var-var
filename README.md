@@ -56,7 +56,7 @@ Du kannst [den ganzen Projektbeschrieb bei GitHub](https://github.com/cas-dt/var
 
 - Videos schauen (siehe unten)
 - Text lesen: [Introduction to variable fonts on the web](https://web.dev/variable-fonts/)
-- Auf unserem [Miro Board](https://miro.com/app/board/uXjVPMeIYus=/) Bildmaterial hunzufügen.
+- Auf unserem [Miro Board](https://miro.com/app/board/uXjVNV1rXuM=/) Bildmaterial hunzufügen.
 
 ### Erster Tag: 4. November 2023
 
