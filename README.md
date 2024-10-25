@@ -72,7 +72,7 @@ Du kannst [den ganzen Projektbeschrieb bei GitHub](https://github.com/cas-dt/var
 - Arbeit an Entwürfen
 - Besprechung/Präsentation
 
-Es findet keine eigentliche Präsentation statt, sondern wir machen eine Art Gesamtschau: Die bisher entstandenen Entwürfe werden in 3er-Gruppen besprochen. Danach präsentiert jede Gruppe eine Auswahl davon.
+Es findet keine eigentliche Zwischenpräsentation statt, sondern wir machen eine Art Gesamtschau: Die bisher entstandenen Entwürfe werden in 3er-Gruppen besprochen. Danach präsentiert jede Gruppe eine Auswahl davon.
 
 ## Links
 
