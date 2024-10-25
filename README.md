@@ -1,4 +1,4 @@
-# CAS Digital Typography, Projekt «Variable Variationen»
+# CAS UI/UX Design, Projekt «Variable Variationen»
 
 ## Ziel
 
@@ -31,7 +31,7 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
 
 
 
-## Abgabe: Sonntag 26. November
+## Abgabe: Sonntag 8. Dezember
 
 - Als Website:
   - Übersichtsseite mit Links auf Subpages gemäss Vorlage (siehe nächster Abschnitt)
@@ -60,13 +60,13 @@ Du kannst [den ganzen Projektbeschrieb bei GitHub](https://github.com/cas-dt/var
 - Text lesen: [Introduction to variable fonts on the web](https://web.dev/variable-fonts/)
 - Auf unserem [Miro Board](https://miro.com/app/board/uXjVNV1rXuM=/) Bildmaterial hunzufügen.
 
-### Erster Tag: 4. November 2023
+### Erster Tag: 1. November 2023
 
 - Einführung in Variable Fonts
 - Beginn Entwurfsphase
 - Besprechung erste Entwürfe
 
-### Zweiter Tag: 17. November 2023
+### Zweiter Tag: 22. November 2023
 
 - Du bringst deine ersten 30 Variationen mit.
 - Arbeit an Entwürfen
