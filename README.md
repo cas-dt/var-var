@@ -34,7 +34,7 @@ Einen Schriftzug neu denken/gestalten. Der Fokus ist nicht ein Endprodukt, sonde
 ## Abgabe: Sonntag 8. Dezember
 
 - Als Website:
-  - Übersichtsseite mit Links auf Subpages gemäss Vorlage (siehe nächster Abschnitt)
+  - Übersichtsseite mit Lioks auf Subpages gemäss Vorlage (siehe nächster Abschnitt)
   - jede Variante ist eine Subpage
     - Die Mindestzahl von Subpages ist 55
     - Der Ordner ist wie folgt beschriftet: `vorname-nachname-001` (dreistellige Zahl am Ende)
@@ -58,7 +58,7 @@ Du kannst [den ganzen Projektbeschrieb bei GitHub](https://github.com/cas-dt/var
 
 - Videos schauen (siehe unten)
 - Text lesen: [Introduction to variable fonts on the web](https://web.dev/variable-fonts/)
-- Auf unserem [Miro Board](https://miro.com/app/board/uXjVNV1rXuM=/) Bildmaterial hunzufügen.
+- Auf unserem [Miro Board](https://miro.com/app/board/uXjVLNmQl1M=/) Bildmaterial hunzufügen.
 
 ### Erster Tag: 1. November 2023
 
